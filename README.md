@@ -1,1 +1,1 @@
-# Program to consult products and prices on a website and place them in an Excel
+# Programa para consultar produto e preço de um web site e criar uma tabela excel com o nome e preço dos produtos.
